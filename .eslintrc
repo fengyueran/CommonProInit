@@ -19,7 +19,6 @@
     }
   },
   "rules": {
-    "react/jsx-filename-extension": 0,
     "arrow-body-style": ["error", "as-needed"],
     "prefer-template": "off",
     "no-bitwise": 0
